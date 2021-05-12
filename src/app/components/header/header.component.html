@@ -1,8 +1,8 @@
 <header>
-    {{title}}
+  <h1> {{title}}</h1> 
     <app-button 
-    [color]="'green'"
-    [text]="'add'"
+    [color]="showAddtask ? 'red' : 'green'"
+    [text]="showAddtask ? 'Close' : 'Add'"
     (btnCick)="toggleAddTask()"
     ></app-button>
 </header>

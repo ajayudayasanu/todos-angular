@@ -22,7 +22,7 @@
       "id": 4,
       "text": "test1",
       "day": "May 7th at 12:30pm",
-      "reminder": false
+      "reminder": true
     },
     {
       "text": "Hello",

@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "angular-to-do-f35ef": {
+      "hosting": {
+        "todo-angular": [
+          "angular-to-do-f35ef"
+        ]
+      }
+    }
+  }
+}
